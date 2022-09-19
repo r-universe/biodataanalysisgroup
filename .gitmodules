@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "lineagespot"]
-	path = lineagespot
-	url = https://github.com/biodataanalysisgroup/lineagespot
-	shallow = true
-	registered = true
 [submodule "tripr"]
 	path = tripr
 	url = https://github.com/biodataanalysisgroup/tripr
